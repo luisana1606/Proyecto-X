@@ -1,1 +1,1 @@
-Hola antes de volver en el tiempo
+Comando para guardar en el git commit (Punto en el tiempo)> git commit -m "Descripcion"
